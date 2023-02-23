@@ -1,2 +1,2 @@
 # test2
-test2 for git commands
+test2 for git commands for practicing
